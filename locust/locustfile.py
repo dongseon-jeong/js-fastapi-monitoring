@@ -1,4 +1,3 @@
-```python
 from locust import HttpUser, task
 import pandas as pd
 import random
